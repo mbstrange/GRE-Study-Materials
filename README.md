@@ -1,16 +1,13 @@
 # GRE Notes
----
 
 Compiling my notes to study for the GRE.
 
 
 ## Math
----
 
 It’s math…
 
 ## Verbal
----
 
 Basically just vocab which leads us to the...
 
