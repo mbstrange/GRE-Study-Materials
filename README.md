@@ -339,24 +339,24 @@ Basically just vocab which leads us to the...
 2. Argument Task
 	* 	Given an argument and instructions to respond.  Usually involves simply critiquing their argument.
 
-General Tips -> 
-*Don’t be redundant and wordy!*
-*Don’t say stupid stuff*
-*Don’t say “I feel, I believe…” as  they know its my opinion*
-*active voice not passive*
-*dont start with stuff like “there is, it is” — STRONG openings*
-*be specific to make convincing arguments with examples*
-*no cliches*
-*subject verb agreement aka grammar*
-*don’t use weirdly ambiguous language*
-*make sure pronouns clearly refer to a specific person*
-*parallelism - with lists and parallel constructions they must all be the same, I’ve definitely done this before*
-*consisten narrative voice*
-*no slang or colloquialisms*
-*avoid sentence fragments…grammar*
-*I use the Oxford comma*
-*semicolon can replaces comma + coordinating conjunction*
-*colons are scary and I will avoid but are generally used for lists* 
+* General Tips
+* Don’t be redundant and wordy!
+* Don’t say stupid stuff
+* Don’t say “I feel, I believe…” as  they know its my opinion
+* active voice not passive
+* dont start with stuff like “there is, it is” — STRONG openings
+* be specific to make convincing arguments with examples
+* no cliches
+* subject verb agreement aka grammar
+* don’t use weirdly ambiguous language
+* make sure pronouns clearly refer to a specific person
+* parallelism - with lists and parallel constructions they must all be the same, I’ve definitely done this before
+* consisten narrative voice
+* no slang or colloquialisms
+* avoid sentence fragments…grammar
+* I use the Oxford comma
+* semicolon can replaces comma + coordinating conjunction
+* colons are scary and I will avoid but are generally used for lists
 
 *THE ISSUE ESSAY*
 
