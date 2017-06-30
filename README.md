@@ -339,7 +339,7 @@ Basically just vocab which leads us to the...
 2. Argument Task
 	* 	Given an argument and instructions to respond.  Usually involves simply critiquing their argument.
 
-* **General Tips**
+**General Tips**
 * Don’t be redundant and wordy!
 * Don’t say stupid stuff
 * Don’t say “I feel, I believe…” as  they know its my opinion
