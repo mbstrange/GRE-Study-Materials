@@ -170,7 +170,7 @@ Basically just vocab which leads us to the...
 * vilify (v): to defame; characterizes harshly; make out to be a villain
 * viscous (a): thick; sticky
 
-#### Group 4
+#### Group 3
 
 * acumen (n): keen and accurate judgement/insight
 * adulterate (v): to make impure by mixing with inferior ingredients
