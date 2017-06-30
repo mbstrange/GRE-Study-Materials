@@ -331,7 +331,6 @@ Basically just vocab which leads us to the...
 
 
 ## Writing
----
 
 2 separate writing tasks…30 minutes a pop - 15/15 split I’m aiming for in terms of planning and typing since I can type pretty dang fast.
 
@@ -399,5 +398,4 @@ In the prompt the writer will try to persuade me with some sort of citation.
 Only dispute assumptions
 
 
-
-#GRE
+-Max
