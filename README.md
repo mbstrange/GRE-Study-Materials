@@ -339,7 +339,7 @@ Basically just vocab which leads us to the...
 2. Argument Task
 	* 	Given an argument and instructions to respond.  Usually involves simply critiquing their argument.
 
-* General Tips
+* **General Tips**
 * Don’t be redundant and wordy!
 * Don’t say stupid stuff
 * Don’t say “I feel, I believe…” as  they know its my opinion
@@ -358,7 +358,7 @@ Basically just vocab which leads us to the...
 * semicolon can replaces comma + coordinating conjunction
 * colons are scary and I will avoid but are generally used for lists
 
-*THE ISSUE ESSAY*
+**THE ISSUE ESSAY**
 
 Take a position and explain.
 
@@ -377,7 +377,7 @@ The question will ask for my opinion on some topic and that’s how I know it’
 -> Can use examples from life and factual knowledge
 
 
-*THE ARGUMENT ESSAY*
+**THE ARGUMENT ESSAY**
 
 Evaluate an argument.  The prompt for this question will ask you for examples and analysis of what makes the argument strong/weak and what could make it better.
 
